@@ -1,0 +1,181 @@
+
+    .navbar {
+        margin-bottom: 0;
+        background-color: rgb(54, 95, 148);
+        }
+  
+    body {
+        position: auto;
+        font-family: Arial, Helvetica, sans-serif;
+        margin: auto;
+        color: rgb(0, 0, 255);
+        clear: both;
+        }           
+      
+    footer {
+        background-color: rgb(54, 95, 148);
+        padding: auto;
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        color: aliceblue;
+        width: 100%;
+        clear: both;
+        }
+
+    .img {
+        width: 25px;
+        height: 25px;
+        }
+      
+    .img2 {
+        Width: 75px;
+        height: 190px;
+        }
+
+    .container {
+        padding-bottom: 40px;
+        padding-top: 30px;
+    }
+
+
+
+    @media screen and (max-width: 980px) {
+        body {
+          background-color: blue;
+        }
+        .navbar {
+            margin-bottom: 0;
+            background-color: rgb(54, 95, 148);
+            }
+      
+        body {
+            position: auto;
+            font-family: Arial, Helvetica, sans-serif;
+            margin: auto;
+            color: rgb(0, 0, 255);
+            clear: both;
+            }           
+          
+        footer {
+            background-color: rgb(54, 95, 148);
+            padding: auto;
+            position: fixed;
+            left: 0;
+            bottom: 0;
+            color: aliceblue;
+            width: 100%;
+            clear: both;
+            }
+    
+        .img {
+            width: 25px;
+            height: 25px;
+            }
+          
+        .img2 {
+            Width: 75px;
+            height: 190px;
+            }
+    
+        .container {
+            padding-bottom: 40px;
+            padding-top: 30px;
+        }
+    
+      
+
+
+
+        @media screen and (max-width: 768px) {
+            body {
+              background-color: blue;
+            }
+            .navbar {
+                margin-bottom: 0;
+                background-color: rgb(54, 95, 148);
+                }
+          
+            body {
+                position: auto;
+                font-family: Arial, Helvetica, sans-serif;
+                margin: auto;
+                color: rgb(0, 0, 255);
+                clear: both;
+                }           
+              
+            footer {
+                background-color: rgb(54, 95, 148);
+                padding: auto;
+                position: fixed;
+                left: 0;
+                bottom: 0;
+                color: aliceblue;
+                width: 100%;
+                clear: both;
+                }
+        
+            .img {
+                width: 25px;
+                height: 25px;
+                }
+              
+            .img2 {
+                Width: 75px;
+                height: 190px;
+                }
+        
+            .container {
+                padding-bottom: 40px;
+                padding-top: 30px;
+            }
+
+
+            @media screen and (max-width: 640px) {
+                body {
+                  background-color: blue;
+                }
+                .navbar {
+                    margin-bottom: 0;
+                    background-color: rgb(54, 95, 148);
+                    }
+              
+                body {
+                    position: auto;
+                    font-family: Arial, Helvetica, sans-serif;
+                    margin: auto;
+                    color: rgb(0, 0, 255);
+                    clear: both;
+                    }           
+                  
+                footer {
+                    background-color: rgb(54, 95, 148);
+                    padding: auto;
+                    position: fixed;
+                    left: 0;
+                    bottom: 0;
+                    color: aliceblue;
+                    width: 100%;
+                    clear: both;
+                    }
+            
+                .img {
+                    width: 25px;
+                    height: 25px;
+                    }
+                  
+                .img2 {
+                    Width: 75px;
+                    height: 190px;
+                    }
+            
+                .container {
+                    padding-bottom: 40px;
+                    padding-top: 30px;
+                }
+      
+
+    
+
+
+
