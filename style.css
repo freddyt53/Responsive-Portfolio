@@ -9,11 +9,13 @@
         position: auto;
         font-family: Arial, Helvetica, sans-serif;
         margin: auto;
-        color: white;
+        color: aliceblue;
         background: url('https://photos.smugmug.com/Architecture/Amsterdam-Canals/i-sCkgSNr/0/f7f51e36/L/Julia%20Anna%20Gospodarou%20-%20A%20Tale%20of%20the%20Past%20I_Keizersgracht%20Canal%20Amserdam_2048_80_NoExif-L.jpg');
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
+        font-size: 1.5em;
+ 
     }           
       
     footer {
@@ -24,6 +26,7 @@
         bottom: 0;
         color: aliceblue;
         width: 100%;
+        font-size: 1.3em;
         }
 
     .img {
@@ -70,6 +73,7 @@
             bottom: 0;
             color: aliceblue;
             width: 100%;
+            font-size: 1.3em;
             }
     
         .img {
@@ -78,8 +82,8 @@
             }
           
         .img2 {
-            Width: 75px;
-            height: 190px;
+            Width: 80px;
+            height: 195px;
             }
     
         .container {
@@ -116,7 +120,7 @@
                 bottom: 0;
                 color:  aliceblue;
                 width: 100%;
-                font-size: 1em;
+                font-size: 1.2em;
                 }
         
             .img {
@@ -135,7 +139,7 @@
             }
 
 
-            @media screen and (max-width: 640px) {
+            @media screen and (max-width: 600px) {
               
                 .navbar {
                     margin-bottom: 0;
@@ -161,12 +165,12 @@
                     bottom: 0;
                     color: aliceblue;
                     width: 100%;
-                    font-size: .9em;
+                    font-size: 1em;
                     }
             
                 .img {
-                    width: 10px;
-                    height: 10px;
+                    width: 20px;
+                    height: 20px;
                     }
                   
                 .img2 {
@@ -178,4 +182,5 @@
                 .container {
                     padding-bottom: 40px;
                     padding-top: 30px;
-                }
+                    }
+                     
