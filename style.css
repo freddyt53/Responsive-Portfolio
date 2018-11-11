@@ -56,6 +56,10 @@
             font-family: Arial, Helvetica, sans-serif;
             margin: auto;
             font-size: 1.5em;
+            background: url('https://photos.smugmug.com/Architecture/Amsterdam-Canals/i-sCkgSNr/0/f7f51e36/L/Julia%20Anna%20Gospodarou%20-%20A%20Tale%20of%20the%20Past%20I_Keizersgracht%20Canal%20Amserdam_2048_80_NoExif-L.jpg');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
             }           
           
         footer {
@@ -88,9 +92,6 @@
 
 
         @media screen and (max-width: 768px) {
-            body {
-              background-color: blue;
-            }
             .navbar {
                 margin-bottom: 0;
                 background-color: rgb(54, 95, 148);
@@ -101,6 +102,10 @@
                 font-family: Arial, Helvetica, sans-serif;
                 margin: auto;
                 font-size: 1.3em;
+                background: url('https://photos.smugmug.com/Architecture/Amsterdam-Canals/i-sCkgSNr/0/f7f51e36/L/Julia%20Anna%20Gospodarou%20-%20A%20Tale%20of%20the%20Past%20I_Keizersgracht%20Canal%20Amserdam_2048_80_NoExif-L.jpg');
+                background-size: cover;
+                background-position: center;
+                background-attachment: fixed;
                 }           
               
             footer {
@@ -142,6 +147,10 @@
                     font-family: Arial, Helvetica, sans-serif;
                     margin: auto;   
                     font-size: 1.2em;
+                    background: url('https://photos.smugmug.com/Architecture/Amsterdam-Canals/i-sCkgSNr/0/f7f51e36/L/Julia%20Anna%20Gospodarou%20-%20A%20Tale%20of%20the%20Past%20I_Keizersgracht%20Canal%20Amserdam_2048_80_NoExif-L.jpg');
+                    background-size: cover;
+                    background-position: center;
+                    background-attachment: fixed;
                     }           
                   
                 footer {
