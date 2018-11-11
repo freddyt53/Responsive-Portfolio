@@ -2,15 +2,19 @@
     .navbar {
         margin-bottom: 0;
         background-color: rgb(54, 95, 148);
+        
         }
   
     body {
         position: auto;
         font-family: Arial, Helvetica, sans-serif;
         margin: auto;
-        color: rgb(0, 0, 255);
-        clear: both;
-        }           
+        color: white;
+        background: url('https://photos.smugmug.com/Architecture/Amsterdam-Canals/i-sCkgSNr/0/f7f51e36/L/Julia%20Anna%20Gospodarou%20-%20A%20Tale%20of%20the%20Past%20I_Keizersgracht%20Canal%20Amserdam_2048_80_NoExif-L.jpg');
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+    }           
       
     footer {
         background-color: rgb(54, 95, 148);
@@ -20,7 +24,6 @@
         bottom: 0;
         color: aliceblue;
         width: 100%;
-        clear: both;
         }
 
     .img {
@@ -38,12 +41,11 @@
         padding-top: 30px;
     }
 
+    
+
 
 
     @media screen and (max-width: 980px) {
-        body {
-          background-color: blue;
-        }
         .navbar {
             margin-bottom: 0;
             background-color: rgb(54, 95, 148);
@@ -53,8 +55,7 @@
             position: auto;
             font-family: Arial, Helvetica, sans-serif;
             margin: auto;
-            color: rgb(0, 0, 255);
-            clear: both;
+            font-size: 1.5em;
             }           
           
         footer {
@@ -65,7 +66,6 @@
             bottom: 0;
             color: aliceblue;
             width: 100%;
-            clear: both;
             }
     
         .img {
@@ -100,8 +100,7 @@
                 position: auto;
                 font-family: Arial, Helvetica, sans-serif;
                 margin: auto;
-                color: rgb(0, 0, 255);
-                clear: both;
+                font-size: 1.3em;
                 }           
               
             footer {
@@ -110,9 +109,9 @@
                 position: fixed;
                 left: 0;
                 bottom: 0;
-                color: aliceblue;
+                color:  aliceblue;
                 width: 100%;
-                clear: both;
+                font-size: 1em;
                 }
         
             .img {
@@ -132,9 +131,7 @@
 
 
             @media screen and (max-width: 640px) {
-                body {
-                  background-color: blue;
-                }
+              
                 .navbar {
                     margin-bottom: 0;
                     background-color: rgb(54, 95, 148);
@@ -143,9 +140,8 @@
                 body {
                     position: auto;
                     font-family: Arial, Helvetica, sans-serif;
-                    margin: auto;
-                    color: rgb(0, 0, 255);
-                    clear: both;
+                    margin: auto;   
+                    font-size: 1.2em;
                     }           
                   
                 footer {
@@ -156,17 +152,17 @@
                     bottom: 0;
                     color: aliceblue;
                     width: 100%;
-                    clear: both;
+                    font-size: .9em;
                     }
             
                 .img {
-                    width: 25px;
-                    height: 25px;
+                    width: 10px;
+                    height: 10px;
                     }
                   
                 .img2 {
-                    Width: 75px;
-                    height: 190px;
+                    Width: 50px;
+                    height: 120px;
                     }
             
                     
@@ -174,9 +170,3 @@
                     padding-bottom: 40px;
                     padding-top: 30px;
                 }
-      
-
-    
-
-
-
